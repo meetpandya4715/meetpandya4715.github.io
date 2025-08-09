@@ -6,14 +6,10 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://meetpandya4715.github.io/Meet_Pandya_Resume.md</loc>
-    <changefreq>monthly</changefreq>
+    <loc>https://meetpandya4715.github.io/Meet%20Pandya_Resume_20250525.pdf</loc>
+    <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
-  <url>
-    <loc>https://meetpandya4715.github.io/user-information.md</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
+  
 </urlset>
 

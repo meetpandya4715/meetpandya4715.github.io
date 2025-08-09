@@ -9,8 +9,7 @@ Contents are static (no build step). The site is optimized for performance, acce
 - `index.html`: Main page with About, Skills, Experience, Publications, Education, and Contact
 - `assets/css/styles.css`: Styles with theme variables
 - `assets/js/main.js`: Theme toggle and small enhancements
-- `Meet_Pandya_Resume.md`: Resume (Markdown)
-- `user-information.md`: Extended profile
+- `Meet Pandya_Resume_20250525.pdf`: Resume (PDF)
 - `.nojekyll`: Prevents Jekyll processing on GitHub Pages
 - `robots.txt` and `sitemap.xml`: Basic SEO
 
