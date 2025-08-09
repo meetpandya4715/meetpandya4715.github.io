@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://meetpandya4715.github.io/sitemap.xml
+
